@@ -1,4 +1,17 @@
-# Database-Migration
+# TASK 3 Database-Migration
+
+COMPANY NAME: CODTECH IT SOLUTIONS
+
+NAME: SOWMYA SRI K
+
+INTERN ID: CT04DA63
+
+DOMAIN NAME: SQL
+
+DURATION: "4 Weeks"
+
+MENTOR NAME: NEELA SANTOSH
+
 ---In this we learn, how to migrate data between two databases (Eg: From My SQL to PostgreSql)
 
 ---This project demonstrates how to migrate a sample relational database from MySQL to PostgreSQL, ensuring structural and data integrity throughout the process. 
